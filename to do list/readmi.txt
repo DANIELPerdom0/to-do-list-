@@ -21,4 +21,4 @@ Profundizar en la lógica de JavaScript, el manejo de eventos y el uso de LocalS
 
 🔗 Enlaces
 - Demo: https://todolistdanielperdomo.netlify.app/
-- Código: *(GitHub repo)*
+
