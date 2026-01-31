@@ -1,0 +1,24 @@
+To do List App ✅
+
+Aplicación web de lista de tareas desarrollada para fortalecer habilidades en JavaScript, manejo del DOM y persistencia de datos en el navegador.
+
+Este proyecto fue clave para entender cómo construir funcionalidades dinámicas y mantener la información del usuario incluso después de recargar la página.
+
+🚀 Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
+
+✨ Funcionalidades
+- Crear, editar y eliminar tareas
+- Validaciones de entrada
+- Diseño responsive
+- Persistencia de datos usando LocalStorage
+- Mantiene las tareas aunque el usuario cierre o recargue la página
+
+🎯 Objetivo del proyecto
+Profundizar en la lógica de JavaScript, el manejo de eventos y el uso de LocalStorage para simular el comportamiento de aplicaciones reales.
+
+🔗 Enlaces
+- Demo: https://todolistdanielperdomo.netlify.app/
+- Código: *(GitHub repo)*
